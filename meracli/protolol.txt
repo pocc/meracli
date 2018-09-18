@@ -1,0 +1,40 @@
+An IPv4 address walks into the bar and yells, "Bartender! Give me a cider, I'm exhausted!"
+WHO HAS ANY GOOD ARP JOKES!?
+The punchline often arrives before the set-up.\nDo you know the problem with UDP jokes?
+A TCP packet walks into a bar and says, “I’d like a beer.” The bartender replies, “You want a beer?” The TCP packet replies, “Yes, I’d like a beer.”
+A VRRP packet walks into a bar...\nIt looks around, panics, kicks a stool, flips a table over, and sets the bar on fire, then runs outside screaming.\nNo one knows why.
+Old MacDonald had a network - E-I-G-R-P
+What do you get when you cross a gangster with a communications protocol?\nSomeone who makes you an offer you can't understand.
+404 Joke not found.
+The sad thing about IPv6 jokes is that almost no one understands them and no one is using them yet.
+The bad thing about Turing machine jokes is you never can tell when they're over.
+RFC1918 jokes are inside jokes.
+The problem with GIS jokes is that you really had to be there.
+The problem with token ring jokes is you need to wait your turn to laugh.
+Everybody loves MitM jokes. Well, everybody except Alice and Bob that is.
+People who tell routing jokes always exceed their time-to-live.
+IGMP joke; please repost.
+How do you keep a UDP client in suspense?
+Spy vs spy. RS-232 vs MI6. Who you going to call? Baud, James Baud.
+RAID joke are always redundant
+CHAP jokes are difficult to tell, because you have to perform a handshake, followed by a password, before they will be accepted.
+NNTP jokes are news to me!
+The worst thing about Tor jokes is that no one gets where you're coming from.
+I was telling a WEP joke once,but everyone already knew it
+ICMP echo request called.He wants his reply back.
+Did you hear the one about the Jumbo frames? It takes a long time to tell it.
+I used to tell this really good joke about One Time Pads. No one got it the first time but everyone got it on the 2nd go around...
+The best thing about script jokes is that they start with a bang.
+Multicast jokes are great, but you have to be paying attention I had an Ethernet joke, but somebody else told it at the same time. So I exponentially backed off and tried again.
+Error 404. The requested punchline was not found in this message.
+OSI model jokes work on so many levels.
+In high society, TCP is more welcome than UDP. At least it knows a proper handshake.
+The problem with a cryptography joke is that you need to tell a pair of them before anyone understand what's being said.
+I heard a great one about IPSEC, but you wouldn't get it -- it's an inside joke.
+I'd tell you the one about the CIDR block, but you're too classy.
+The sad thing about Kerberos jokes is that you first have to buy a ticket to join the laughter
+Sorry, but not allowed to tell you my 403 joke. So stop asking!
+VoIP is the latest koolaid ingredient....seems like everyone is already taking a SIP
+Doctor: What seems to be the problem? Router: It hurts when IP.
+406 jokes are not acceptable.
+HTTP 200 jokes are only OK.
